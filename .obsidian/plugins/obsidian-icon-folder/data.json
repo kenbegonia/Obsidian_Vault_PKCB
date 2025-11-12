@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🏠",
+      "LiDumbbell",
+      "🖊",
+      "💻",
+      "🎮"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Professional/Project Management": "📅",
+  "Professional/Shopify": "🛍",
+  "Professional/Software Development": "🖥",
+  "Professional/Software Testing": "🖱",
+  "Life/Daily Stuff/Fashion": "👕",
+  "Life/Daily Stuff/Video Games": "🎮",
+  "Professional/Software Development/Game Dev": "LiGamepad2",
+  "Professional/Software Development/Webdev": "💻",
+  "Workplaces/EndlessPens": "🖊",
+  "Life/Daily Stuff/Training": "LiDumbbell",
+  "Life/Daily Stuff/House": "🏠"
+}
