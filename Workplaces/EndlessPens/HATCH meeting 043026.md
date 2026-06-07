@@ -1,0 +1,31 @@
+# Meeting Points
+-  Customer ICP to target more narrowly on specific segments of audiences to prevent vagueness
+- For now, ICP is still broad since it's still in the works internally, will narrow down once there's stakeholder buy-in
+-  Proposed buyer motivation for HATCH: make them purchase products because releases feel unique and creator-driven
+-  Buyer concerns: CS, unfamiliar brands and/or creatives, quality control issues
+-  Creative ICP: age can be more variable, as long as they lean more on with entrepreneurial mindsets
+-  Creative ICPs in regards to age is broad for now
+-  Big plus if Creative is inclined with visual arts, and humility to be part of a growing community, and share mutual respect in return for what EP can offer to the Creative
+-  Prefer to have the Creative some understanding on business practices and releasing products to the public, and more on the monetary side, but proposed system is that EP and HATCH can give a platform to learn marketing for their own products
+- Creative motivation: funding, production, logistics & fulfillment, access to large audiences, design refinement, low maintenance work on Creatives' sides
+-  Creative concerns: loss of creative control, compensation fairness, reputation risk, public response
+-  Proposed Creative support: 1 to 1 design calls, collaboration checklists, optional pricing transparency, full logistics & fulfillment supports, clear expectations for Creatives' deliverables
+-  Value exchange: Creatives bring ideas, professionalism, and audience; EP provides all infra; buyers receive meaningful collaborative products; brands receive credit for creation and commercial visibility
+-  Customer Journey: discovery > story > anticipation > launch > community sharing
+-  Biggest room for improvement: customer sharing -- make something so good people want to talk about it
+- Strategic Advantage: traditional brands release products, HATCH release collaborative creative moments
+-  Focus on feeling, we want to win hearts and a spot in their mind
+-  HATCH is a creative platform, not a pen retailer in general (that is EP)
+-  Reduce association of HATCH from EP
+-  Brand ICP: 1 year proven record, wholesale process understanding, 90 day warranty policy, complete product (packaging, model, brand identity), 4 month lead time after receiving blanks, values CS, originality and flexibility, growth opportunities
+- Brand offer: professional platform, audience access, affiliate network, logistics, acknowledgement, Makers page entry, optional store discount
+
+# HATCH: Growth Opportunities
+- Reengagement with Creatives
+- Teach stronger storytelling (workshop maybe)
+- More 1 to 1 calls with Creatives
+- Deeper brand focus on HATCH itself
+- Increased product line (more stationery items maybe)
+- Referral system to incentivize internal and external peeps for Creative referral
+- Improved Affiliate Tiers
+- Some ways to 
