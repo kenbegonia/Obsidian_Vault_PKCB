@@ -118,3 +118,8 @@ img{width:100%}
 --></style>
 ```
 
+## Backup: INKfinity conditional code
+```
+    {% if year %}{{ year }} {% endif %}Hatch {% if product.tags contains 'Collection_INKfinity' %} INKfinity Release{% else %}Exclusive{% endif %}{% if model %} {{ model }}{% endif %}
+```
+
