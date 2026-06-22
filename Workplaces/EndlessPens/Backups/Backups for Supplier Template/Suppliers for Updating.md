@@ -32,14 +32,24 @@
 
 ---
 
-### ### Pending - 042926 - revamp to new style
-
+### Pending - 061726 - revamp to new style
+- [ ] Bob Dupras
+- [ ] Bounshi
+- [ ] Carolina Pen Company
+- [ ] DHL
+- [ ] Elite Accessories
+- [ ] Faire (Lochby)
+- [ ] GoPens
+- [ ] Harler Print LLC
+- [ ] JPT America
+- [ ] Kakimori
+- [ ] Robert Oster
 
 ### For filling up info
 
 ---
 
-### Pending - 051526 - revamp to new style
+### Pending - 062426 - revamp to new style
 
 ### For filling up info
 

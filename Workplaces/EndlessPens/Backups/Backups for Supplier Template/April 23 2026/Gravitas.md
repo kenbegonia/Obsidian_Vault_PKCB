@@ -1,11 +1,11 @@
-# **Brands:**
+# Brands:
 
 - Gravitas  
 ﻿
 
 ---
 
-# **Order Method:**
+# Order Method:
 
 - Use [order sheet](https://www.dropbox.com/scl/fi/4tzn0k41hppah0x7m9ihh/2025-Gravitas-USD-ORDER-FORM.xlsx?rlkey=teifd0kg0vmnbcu00yqdvlze8&dl=0)  
 ﻿
