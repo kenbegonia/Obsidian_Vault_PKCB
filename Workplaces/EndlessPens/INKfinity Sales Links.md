@@ -20,5 +20,16 @@
 - @mattdeford INKfinity Medicine Hat Winter Teal (30ml): [Referral #31979988](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/31979988/5)
 
 ### August 2026
-- 
+- @karynalovestoplan INKfinity Winter Sunrise Ink: [Referral #32995907](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/32995907/5) 
+- @TheInksploration INKfinity Fügekaktusz (Prickly Pear) Ink: [Referral #32996003](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/32996003/5) 
+- @gabbitries INKfinity Mangosteen Grey Ink: [Referral #32996022](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/32996022/5) 
+- @InkSight1101 INKfinity Encaustum Lux Virtus Ink: [Referral #32996036](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/32996036/5) 
+- @officialwastedpaper Puuurfectly Insane Ink: [Referral #32996054](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/32996054/5)  
+- @ynnamisfits INKfinity Verdure Ember Ink: [Referral #32996071](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/32996071/5) 
+- @pinlinz INKfinity Moonlight & Jellyfish Ink: [Referral #32996079](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/32996079/5) 
+- @whitebearpens INKfinity Moonfox Mirage Ink: [Referral #32996092](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/32996092/5) 
+- @mattdeford INKfinity Medicine Hat Winter Teal: [Referral #32996105](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/32996105/5) 
+- @the_inkwitch INKfinity Huron Shores Ink: [Referral #32996117](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/32996117/5) 
+- julia here. INKfinity Loveletter Ink Bottle: [Referral #32996219](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/32996219/5)
+
 
