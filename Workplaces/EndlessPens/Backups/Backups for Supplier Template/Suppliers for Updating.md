@@ -32,7 +32,7 @@
 
 ---
 
-### Pending - 061726 - revamp to new style
+### Pending - 062426 - revamp to new style
 - [ ] Bob Dupras
 - [ ] Bounshi
 - [ ] Carolina Pen Company

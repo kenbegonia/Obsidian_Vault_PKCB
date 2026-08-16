@@ -32,3 +32,16 @@ Shopify Search and Discovery app's improved search result generation can work se
 
 Spekaing of synonyms, we can also create synonyms for a search term, like in my test store's case, if you search for "ski", it showed snowboards on the results since I've set it so that "ski" is synonymous with "snowboard"!
 ```
+
+
+```
+result = query
+
+order = result.data.order.lineItems.edges
+
+lineItemEdge in order.lineItems.edges
+
+lineItem = lineItemEdge.node
+
+lineItem.variant.inventoryQuantity
+

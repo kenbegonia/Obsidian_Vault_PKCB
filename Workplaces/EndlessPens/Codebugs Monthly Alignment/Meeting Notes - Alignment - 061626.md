@@ -3,7 +3,6 @@
 - Target launch: October 2026 to January 2027
 - KK looking both at Circle Plus and TapCart
 - Circle Plus: community platform
-- TapCart: 
 
 ## Done
 - [EDD: Flow for Marketing](https://app.basecamp.com/5539926/buckets/31105695/todos/9953111055#__recording_9966170571) - send exported sheet of EDD tags on last Monday of June to KK/Sam; they will discuss what to do

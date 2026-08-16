@@ -6,7 +6,6 @@
 - Shop App complaint ticket now closed; cx to be referred to Shopify Privacy department
 - KK reached out to Richard Hancock to ask further details if they have existing script blockers
 - KK checked RM's findings on Atlas Stationers theme
-- 
 
 ## Done
 - [EDD: Flow for Marketing](https://app.basecamp.com/5539926/buckets/31105695/todos/9953111055#__recording_9966170571) - TBD with Sam/Ynna

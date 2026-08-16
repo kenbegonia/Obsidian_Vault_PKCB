@@ -4,9 +4,6 @@
 - [Combine Orders automation](https://app.basecamp.com/5539926/buckets/31085772/messages/10096618357) 
 - Discuss which collections to stop the SO Push automation for sales
 
-## Done
-- 
-
 ---
 
 ## Needs Action
@@ -21,10 +18,4 @@
 - [EDD Site Audit](https://app.basecamp.com/5539926/buckets/31105009/todos/9938833169) — shall we move these forward?
 
 ---
-
-# Action Items for Codebugs and/or KK
-- 
-
----
-
 
