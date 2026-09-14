@@ -32,4 +32,18 @@
 - @the_inkwitch INKfinity Huron Shores Ink: [Referral #32996117](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/32996117/5) 
 - julia here. INKfinity Loveletter Ink Bottle: [Referral #32996219](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/32996219/5)
 
+### September 2026
+- @catcollageclub INKfinity Cuddle Break Ink (30ml): [Referral #34021499](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/34021499/5) 
+- @heathermarieplans INKfinity Chesapeake at Twilight Ink (30ml): [Referral #34021508](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/34021508/5)
+- @gabbitries INKfinity Mangosteen Grey Ink (30ml): [Referral #34021518](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/34021518/5)
+- julia here. INKfinity Loveletter Ink Bottle (50ml): [Referral #34021535](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/34021535/5)
+- @karynalovestoplan INKfinity Winter Sunrise Ink (30ml): [Referral #34021551](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/34021551/5)
+- @pinlinz INKfinity Moonlight & Jellyfish Ink (30ml): [Referral #34021558](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/34021558/5)
+- @officialwastedpaper Puuurfectly Insane Ink (30ml): [Referral #34021564](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/34021564/5)
+- @TheInksploration INKfinity Fügekaktusz (Prickly Pear) Ink (30ml): [Referral #34021574](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/34021574/5)
+- @InkSight1101 INKfinity Encaustum Lux Virtus Ink (30ml): [Referral #34021587](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/34021587/5)
+- @the_inkwitch INKfinity Huron Shores Ink (50ml): [Referral #34021597](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/34021597/5)
+- @mattdeford INKfinity Medicine Hat Winter Teal (30ml: [Referral #34021606](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/34021606/5)
+- @ynnamisfits INKfinity Verdure Ember Ink (30ml): [Referral #34021608](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/34021608/5)
+- @whitebearpens INKfinity Moonfox Mirage Ink (30ml): [Referral #34021616](https://admin.shopify.com/store/endlesspens/apps/affliate-by-secomapp/admin/referrals/order-detail/34021616/5)
 

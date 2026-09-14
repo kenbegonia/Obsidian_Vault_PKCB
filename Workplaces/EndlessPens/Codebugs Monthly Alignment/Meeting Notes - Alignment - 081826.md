@@ -21,8 +21,6 @@
 
 # Action Items for Codebugs and/or KK
 - Update pages to reflect new [shipping rate increase](https://app.basecamp.com/5539926/buckets/31105695/todos/10038298268)
-- 
-
 
 ---
 
