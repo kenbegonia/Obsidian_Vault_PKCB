@@ -1,5 +1,12 @@
 # Talking Points
-- 
+- October 23 to make Halloween collection live
+- Black Friday/Winter Blitz stuff: check out the timeline for activities
+- HATCH homepage layout voting — KK remark: `Option 3` seems to be the better fit and differentiates HATCH from other bespoke pen retailers; Ynna/Sam to still vote for tiebreakers
+- [Brand Creative Fee Percentages](https://app.basecamp.com/5539926/buckets/31105009/chats/5720911309@10334123308) will depend on how well known the Creative/Maker 
+- [Midori RRP](https://app.basecamp.com/5539926/buckets/31105009/todos/9815850919#__recording_10264017870) to compare against Yoseka, Goulet, JetPens, Atlas (can use same format as Weekly Price Comparison), send comparison sheet to Keval (assigned to Raqui)
+- KK: Give custom one-time use birthday discount to account for lost birthday code (Mike Martindale)
+- Grumpy Kitty series: Raqui to make more cats
+- Confirm with Authan if it's Write Alott or Write Alotl (Keval)
 
 ---
 

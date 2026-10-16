@@ -16,6 +16,7 @@
 - Packing slip fixes for BISO Limited Edition
 - Coding stuff: reviews on both the existing theme code and Lighthouse reports to check for areas of optimization from Ruel's core web vitals report 
 - Progress on SEO fixes from Ruel's October audit (permanent redirects)
+
 ---
 
 **✅ Tasks Completed:**
@@ -26,6 +27,7 @@
 - Follow-ups on Shopify Support for GTM inquiry 
 - Checks on SupaEasy if there are active discounts we're using from them; candidate app for uninstalling 
 - Progress on SEO fixes from Ruel's October audit (permanent redirects, meta description updates)
+
 ---
 
 **✅ Tasks Completed:**
@@ -38,6 +40,7 @@
 - Followups with Gabbi for weekly site audits; ticked off the audit for the week 
 - Troubleshooting for product not opening to PO; applied product update exclusions for Mechanic until queue clears up — shall get back on it with Raqui and include product updates tomorrow when queue is already clear 
 - Progress on SEO audits from Ruel (4XX errors)
+
 ---
 
 **✅ Tasks Completed:**
