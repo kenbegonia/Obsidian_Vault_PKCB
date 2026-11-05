@@ -3,8 +3,6 @@
 - Pending: FPD, Winter Blitz
 - Change theme on the 5th (SITEDOWN)
 - Final theme: Candy Cane and Peppermint
-- Navi: 
-- Ruel 
 
 ---
 
